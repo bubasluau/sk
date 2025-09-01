@@ -8,7 +8,7 @@ local Settings = {
     Dim = false,
     
     ItemColor = Color3.fromRGB(255, 255, 255),
-    BorderColor = Color3.fromRGB(8, 8, 8),
+    BorderColor = Color3.fromRGB(255, 255, 255),
     MinSize = Vector2.new(400, 370),
     MaxSize = Vector2.new(400, 370)
 }
