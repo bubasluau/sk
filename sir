@@ -1,14 +1,14 @@
 -- by sir buba
 
 local Settings = {
-    Accent = Color3.fromHex("#90EE90"),
+    Accent = Color3.fromHex("#FFFFFF"),
     Font = Enum.Font.SourceSans,
     IsBackgroundTransparent = true,
     Rounded = false,
     Dim = false,
     
-    ItemColor = Color3.fromRGB(30, 30, 30),
-    BorderColor = Color3.fromRGB(45, 45, 45),
+    ItemColor = Color3.fromRGB(255, 255, 255),
+    BorderColor = Color3.fromRGB(255, 255, 255),
     MinSize = Vector2.new(400, 370),
     MaxSize = Vector2.new(400, 370)
 }
